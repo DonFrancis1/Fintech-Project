@@ -15,19 +15,27 @@ THE PROCESS
 Tools used:
 
 Microsoft PowerBI Desktop
+
 Power Query Editor
+
 Microsoft Power Point
 
 Techniques:
 
 Data Loading (ETL)
+
 Data Modelling
+
 Data Analysis
+
 Data Visualization
+
 Creating and using DAX measures for powerful insights
+
 Creating theme in Json file
+
 Power Point presentation
 
 DELIVERABLE
 
-Interactive Dashboard of Customers, Product and Time series Summary
+Interactive Dashboard of visualizing saving capacity and spending pattern of customers. 
