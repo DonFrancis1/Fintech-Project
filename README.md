@@ -1,5 +1,5 @@
 # Fintech-Project
-https://app.powerbi.com/view?r=eyJrIjoiZjI0YTY3YmUtMDE1Ny00NzFkLWJlYTEtYzI3OGQwZTA5YmY2IiwidCI6IjgyMjU5N2NkLTQ1ZTYtNDEzMS1hM2JkLTNiNWUwZTFhNzI0MyJ9
+https://app.powerbi.com/view?r=eyJrIjoiYTE5ZGIyODAtMGQ5Zi00OWY4LWE3ZDItYjNiMzdhOThmYTcyIiwidCI6IjgyMjU5N2NkLTQ1ZTYtNDEzMS1hM2JkLTNiNWUwZTFhNzI0MyJ9
 
 CredPal is a ﬁntech company that develops point-of-sale credit infrastructure to ease consumer credit purchases and enables retail businesses to provide on-demand credit for the consumer population. Working from Lagos Nigeria,
 As an impact instrument, CredPal is designed to drive retail sales growth for merchants on an average of 23%. Can this number increase? Since inception, the emerging Fintech business has powered large businesses to as much as 16% growth, while small businesses have experienced up to 200% growth.
@@ -41,4 +41,4 @@ Power Point presentation
 
 Interactive Dashboard of visualizing saving capacity and spending pattern of customers. 
 
-Link To Interactive Dashboard : https://app.powerbi.com/view?r=eyJrIjoiZjI0YTY3YmUtMDE1Ny00NzFkLWJlYTEtYzI3OGQwZTA5YmY2IiwidCI6IjgyMjU5N2NkLTQ1ZTYtNDEzMS1hM2JkLTNiNWUwZTFhNzI0MyJ9
+Link To Interactive Dashboard : https://app.powerbi.com/view?r=eyJrIjoiYTE5ZGIyODAtMGQ5Zi00OWY4LWE3ZDItYjNiMzdhOThmYTcyIiwidCI6IjgyMjU5N2NkLTQ1ZTYtNDEzMS1hM2JkLTNiNWUwZTFhNzI0MyJ9
