@@ -1,4 +1,6 @@
 # Fintech-Project
+<img width="707" alt="credpal" src="https://github.com/DonFrancis1/Fintech-Project/assets/88105784/b786c93a-e0f9-4d23-8ba9-1e6f0cda189f">
+
 https://app.powerbi.com/view?r=eyJrIjoiYTE5ZGIyODAtMGQ5Zi00OWY4LWE3ZDItYjNiMzdhOThmYTcyIiwidCI6IjgyMjU5N2NkLTQ1ZTYtNDEzMS1hM2JkLTNiNWUwZTFhNzI0MyJ9
 
 CredPal is a ﬁntech company that develops point-of-sale credit infrastructure to ease consumer credit purchases and enables retail businesses to provide on-demand credit for the consumer population. Working from Lagos Nigeria,
